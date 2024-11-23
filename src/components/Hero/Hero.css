@@ -1,0 +1,8 @@
+.btn-connect:hover{
+    border: 2px solid white;
+    transform: scale(1.05);
+}
+.btn-resume:hover{
+    border: 2px solid white;
+    transform: scale(1.05);
+}
